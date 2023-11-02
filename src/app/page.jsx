@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Home",
+  Description: "Something about dogs",
+};
+
 export default function Home() {
   return (
     <main>
